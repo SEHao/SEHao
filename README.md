@@ -7,7 +7,7 @@ Web Developer
 I have a degree in Software Engineer and have been specialising in that range.
 
 * 🌍  I'm based in Eindhoven, the Netherlands
-* 🚀  I'm currently working on [APS Group](http://https://www.theapsgroup.com/)
+* 🚀  I'm currently working on [Team Rockstars IT](http://https://www.theapsgroup.com/](https://www.teamrockstars.nl/)
 * 🧠  I'm learning Angular and React
 * ⚡  I'm secretly a barista
 
